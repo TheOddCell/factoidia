@@ -14,4 +14,5 @@ This list is hard to expand, if you would like to do so use [reFactoidia](https:
 
 Requires:
 1. `requests` package
-2. `google-genai` package and api key in api.txt (optinal, if you do not want to use AI, at the top set `genai` and `aimenu` to false.)
+2. `ttkbootstrap` package
+3. `google-genai` package and api key in api.txt (optinal, if you do not want to use AI, at the top set `genai` and `aimenu` to false.)
